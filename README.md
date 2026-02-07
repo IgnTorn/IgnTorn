@@ -1,7 +1,7 @@
 <div align="center">
-<p>
-  ## Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="20" height="20" />
-</p>
+  <h2 style="color: white;">
+    Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="20" height="20" />
+  </h2>
 </div>
 
 I'm Tornike (Short for Torn), a programmer based in Georgia.
