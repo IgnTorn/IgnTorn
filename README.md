@@ -1,4 +1,7 @@
-## Hey there <img src= "https://github.com/user-attachments/assets/f796d3de-7e19-4a8e-984b-37a8b10f6a26" width = "20" />
+<div align="center">
+<p>
+  ## Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+</p>
 
 I'm Tornike (Short for Torn), a programmer based in Georgia.
 
@@ -26,7 +29,7 @@ Passionate about continuous learning, I enjoy exploring new technologies and app
   </details>
 
 <details> 
-  <summary><h3>📚 I’m currently learning</h3></summary>
+  <summary><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> I’m currently learning</h3></summary>
      <div>
          <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
              <img loading="lazy" src="https://skillicons.dev/icons?i=c#" width="40" height="40"/>
