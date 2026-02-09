@@ -47,4 +47,4 @@ Passionate about continuous learning, I enjoy exploring new technologies and app
 </details>
 
 Currently working on:
-- 🔐 **Password Generator** – [Check it out](https://github.com/IgnTorn/Readme-Previewer)
+- 🔐 **Readme Previewer** – [Check it out](https://github.com/IgnTorn/Readme-Previewer)
